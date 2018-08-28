@@ -1,0 +1,11 @@
+C:\CodingDojo\DeckOfCards2\bin\Debug\netcoreapp2.1\DeckOfCards2.deps.json
+C:\CodingDojo\DeckOfCards2\bin\Debug\netcoreapp2.1\DeckOfCards2.runtimeconfig.json
+C:\CodingDojo\DeckOfCards2\bin\Debug\netcoreapp2.1\DeckOfCards2.runtimeconfig.dev.json
+C:\CodingDojo\DeckOfCards2\bin\Debug\netcoreapp2.1\DeckOfCards2.dll
+C:\CodingDojo\DeckOfCards2\bin\Debug\netcoreapp2.1\DeckOfCards2.pdb
+C:\CodingDojo\DeckOfCards2\obj\Debug\netcoreapp2.1\DeckOfCards2.csprojAssemblyReference.cache
+C:\CodingDojo\DeckOfCards2\obj\Debug\netcoreapp2.1\DeckOfCards2.csproj.CoreCompileInputs.cache
+C:\CodingDojo\DeckOfCards2\obj\Debug\netcoreapp2.1\DeckOfCards2.AssemblyInfoInputs.cache
+C:\CodingDojo\DeckOfCards2\obj\Debug\netcoreapp2.1\DeckOfCards2.AssemblyInfo.cs
+C:\CodingDojo\DeckOfCards2\obj\Debug\netcoreapp2.1\DeckOfCards2.dll
+C:\CodingDojo\DeckOfCards2\obj\Debug\netcoreapp2.1\DeckOfCards2.pdb
